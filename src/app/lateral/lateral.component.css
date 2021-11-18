@@ -1,0 +1,32 @@
+.lateral{
+    display: inline-block;
+    height: 100vh;
+    background-color: #003444;
+}
+.main-item{
+    margin-top: 10px;
+    padding: 9px;
+    color: white;
+    font-family: arial;
+    font-weight: bold;
+    text-align: center;
+    background-color: #00232E;
+}
+.suject{
+    text-align: left;
+}
+
+.child-item{
+    margin-top: 3px;
+    padding-left: 20px;
+    color: white;
+    font-family: arial;
+    background-color: #003444;
+}
+
+.wrapper{
+    display: inline-block;
+    width: 50%;
+    height: 300px;
+    background-color: #4C77B7;
+}

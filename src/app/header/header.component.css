@@ -1,0 +1,8 @@
+header{
+    display: flex;
+    justify-content: center;
+    height: 95px;
+    background: rgb(14,102,47);
+    background: linear-gradient( 180deg, rgba(14,102,47,1) 0%, rgb(15 139 67) 100%);
+}
+
